@@ -18,7 +18,6 @@ public class Tic
 		Scanner sc=new Scanner(System.in);
 		boolean game=true;
 		boolean win=false;
-		boolean enter=true;
 		int chance=1;
 		int x,y;
 		while (win==false)
